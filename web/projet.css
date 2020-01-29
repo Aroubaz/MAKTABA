@@ -1,0 +1,89 @@
+h4
+{
+	color : white;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+label{
+	color: white;
+	text-align: center;
+}
+input{
+	text-align: center;
+    border-radius:5px;
+}
+#monform{
+	text-align: center
+}
+#loginform{
+	text-align: center 
+}
+#addauteurform{
+	text-align: center 
+}
+#indexform{
+	text-align: center 
+}
+#indexform2{
+	
+	text-align: center 
+}
+#addbody{
+	background-image: url("image/Background.png");
+}
+#indexbody{
+    background-image: url("image/Background.png");
+}
+
+#buttid{
+	color: green;
+
+}
+#addbutt{
+	color: green;
+}
+#logoutbutt{
+	color: green;
+}
+#buttaddauteur{
+	color: green;
+}
+#bodylogin{
+	background-image: url("image/Background.png");
+}
+#addauteurbody{
+	background-image: url("image/Background.png");
+}
+/*for table*/ 
+table.table-style-one {
+                margin: auto;
+		font-family: verdana,arial,sans-serif;
+		font-size:15px;
+		color:#333333;
+		width: 900px;
+		border-collapse: collapse;
+                border-radius: 1em;
+                overflow: hidden;
+	}
+	table.table-style-one th {
+		border-width: 1px;
+		
+		background-color: #66CDAA;
+                 padding: 1em;
+	}
+	table.table-style-one td {
+		border-width: 1px;
+		padding: 8px;
+		text-align: center;
+		background-color: #ffffff;
+                 padding: 1em;
+	}
+        h2.error{
+            color: red;
+        }
